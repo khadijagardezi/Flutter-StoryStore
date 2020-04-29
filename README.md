@@ -1,4 +1,4 @@
-# Flutter Story App UI
+# Flutter StoryStore
 
 ![](assets/preview.png)
 
